@@ -53,6 +53,12 @@ a:hover {
 .app{
   color: #40514E;
   text-decoration: underline;
+  margin-left: 200px;
+}
+.app2{
+  color: #40514E;
+  text-decoration: underline;
+  margin-left: 1px;
 }
 
 .app-img {
